@@ -153,7 +153,7 @@ function App() {
         <div className='btn orange fs-5' onClick={operatorType}>
           -
         </div>
-        <div className='btn zero or' onClick={inputNum}>
+        <div className='btn zero ' onClick={inputNum}>
           0
         </div>
         <div className='btn fs-5 ' onClick={inputNum}>
